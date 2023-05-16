@@ -1,7 +1,11 @@
-![Header](./github-header-image.png "Header")
+# 🕷 Hello, i'm scrowYko
 # 💫 About Me:
-🔭 I’m currently studying analysis and systems development<br>👯 I’m looking to collaborate on back-end projects<br>🤝 I’m looking for help with js, HTML and python<br>🌱 I’m currently learning HTML and js<br>🌴 I'm from Brazil<br>🎮 Gamer
-
+🔭 I’m currently studying analysis and systems development<br>
+👯 I’m looking to collaborate on back-end projects<br>
+🤝 I’m looking for help with js, HTML and python<br>
+🌱 I’m currently learning HTML and js<br>
+🌴 I'm from Brazil<br>
+<> Initial dev </>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yko.w_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/davi-henry-morel-pintos-084929274) 
@@ -16,10 +20,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=scrowYko&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+## Some of my interests
 
----
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32px"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="32px"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="32px"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32px"/>
+<img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" width="32px"/>
+
+-------------
 [![](https://visitcount.itsvg.in/api?id=scrowYko&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
