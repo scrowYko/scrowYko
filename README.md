@@ -22,11 +22,7 @@
 
 ## Some of my interests
 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32px"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="32px"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="32px"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32px"/>
-<img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" width="32px"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32px"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="32px"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="32px"/><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32px"/><img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" width="32px"/>
 
 -------------
 [![](https://visitcount.itsvg.in/api?id=scrowYko&icon=2&color=8)](https://visitcount.itsvg.in)
