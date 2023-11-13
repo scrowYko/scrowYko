@@ -2,8 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently studying analysis and systems development<br>
 👯 I’m looking to collaborate on back-end projects<br>
-🤝 I’m looking for help with js, HTML and python<br>
-🌱 I’m currently learning HTML and js<br>
+🤝 I’m looking for help with js, HTML and CSS<br>
+🌱 I’m currently learning HTML, CSS and JavaScript<br>
 🌴 I'm from Brazil<br>
 <> Initial dev </>
 
