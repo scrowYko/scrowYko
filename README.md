@@ -1,9 +1,8 @@
 # 🕷 Hello, i'm scrowYko
 # 💫 About Me:
-🔭 I’m currently studying analysis and systems development<br>
+🔭 I’m currently studying analysis and systems development for 2 years<br>
 👯 I’m looking to collaborate on back-end projects<br>
-🤝 I’m looking for help with js, HTML and CSS<br>
-🌱 I’m currently learning HTML, CSS and JavaScript<br>
+🌱 I’m currently learning React, React Native and JavaScript<br>
 🌴 I'm from Brazil<br>
 <> Initial dev </>
 
