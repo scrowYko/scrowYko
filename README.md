@@ -1,10 +1,10 @@
-# 🕷 Hello, i'm scrowYko
+# 🕷 Hello, i'm Davi Henry!
 # 💫 About Me:
-🔭 I’m currently studying analysis and systems development for 2 years<br>
+🔭 I’m a analysis and systems development technician<br>
 👯 I’m looking to collaborate on back-end projects<br>
-🌱 I’m currently learning React, React Native and JavaScript<br>
+🌱 I’m currently learning C++ and Python<br>
 🌴 I'm from Brazil<br>
-<> Initial dev </>
+<> C++, JavaScript, React, React Native Developer </>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yko.w_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/davi-henry-morel-pintos-084929274)  
